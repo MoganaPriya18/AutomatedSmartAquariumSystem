@@ -374,3 +374,5 @@ Blynk data sent
 The Smart Aquarium Management System is a complete IoT-based aquarium monitoring and automation solution built using ESP32. The system continuously monitors water quality, uploads readings to the Blynk cloud platform, displays information on an LCD, sends Telegram alerts, and automatically feeds fish using Blynk Automations.
 
 This project demonstrates embedded systems programming, IoT communication, sensor integration, cloud monitoring, automation, and remote control in a smart aquarium environment.
+
+#
